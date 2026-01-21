@@ -44,7 +44,7 @@
   <br><sub><b>TypeScript</b></sub>
 </td>
 <td align="center" width="100">
-  <img src="https://svgl.app/library/c_plusplus.svg" width="48" height="48" alt="C++">
+  <img src="https://svgl.app/library/cpp.svg" width="48" height="48" alt="C++">
   <br><sub><b>C++</b></sub>
 </td>
 <td align="center" width="100">
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td align="center" width="100">
-  <img src="https://svgl.app/library/react.svg" width="48" height="48" alt="React">
+  <img src="https://svgl.app/library/react-dark.svg" width="48" height="48" alt="React">
   <br><sub><b>React</b></sub>
 </td>
 <td align="center" width="100">
@@ -66,7 +66,7 @@
   <br><sub><b>Next.js</b></sub>
 </td>
 <td align="center" width="100">
-  <img src="https://svgl.app/library/express_dark.svg" width="48" height="48" alt="Express">
+  <img src="https://svgl.app/library/express.svg" width="48" height="48" alt="Express">
   <br><sub><b>Express</b></sub>
 </td>
 <td align="center" width="100">
