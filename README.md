@@ -32,6 +32,8 @@
 
 ## 🛠️ Tech Stack
 
+<img src="https://svgl.app/library/tools.svg" width="24" height="24" alt="Tools">
+
 <div align="center">
 <table>
 <tr>
