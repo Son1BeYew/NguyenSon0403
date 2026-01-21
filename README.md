@@ -33,39 +33,96 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs&theme=dark" alt="Languages">
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend">
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" alt="Backend">
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" alt="Database">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark" alt="Tools">
-</p>
-
-### AI Tools
-<p>
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
-</p>
-
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/javascript.svg" width="48" height="48" alt="JavaScript">
+  <br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/typescript.svg" width="48" height="48" alt="TypeScript">
+  <br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/c_plusplus.svg" width="48" height="48" alt="C++">
+  <br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/csharp.svg" width="48" height="48" alt="C#">
+  <br><sub><b>C#</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/nodejs.svg" width="48" height="48" alt="Node.js">
+  <br><sub><b>Node.js</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/react.svg" width="48" height="48" alt="React">
+  <br><sub><b>React</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="48" height="48" alt="Next.js">
+  <br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/express_dark.svg" width="48" height="48" alt="Express">
+  <br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/dotnet.svg" width="48" height="48" alt=".NET">
+  <br><sub><b>.NET</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/tailwindcss.svg" width="48" height="48" alt="Tailwind">
+  <br><sub><b>Tailwind</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/mongodb.svg" width="48" height="48" alt="MongoDB">
+  <br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/postgresql.svg" width="48" height="48" alt="PostgreSQL">
+  <br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/microsoft-sql-server.svg" width="48" height="48" alt="SQL Server">
+  <br><sub><b>SQL Server</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/docker.svg" width="48" height="48" alt="Docker">
+  <br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/git.svg" width="48" height="48" alt="Git">
+  <br><sub><b>Git</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/github-dark.svg" width="48" height="48" alt="GitHub">
+  <br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/postman.svg" width="48" height="48" alt="Postman">
+  <br><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/vscode.svg" width="48" height="48" alt="VS Code">
+  <br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/claude.svg" width="48" height="48" alt="Claude">
+  <br><sub><b>Claude</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://svgl.app/library/openai-dark.svg" width="48" height="48" alt="OpenAI">
+  <br><sub><b>OpenAI</b></sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
