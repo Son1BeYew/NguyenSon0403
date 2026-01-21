@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Son1BeYew-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Son1BeYew)
+[![GitHub](https://img.shields.io/badge/GitHub-NguyenSon0403-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/NguyenSon0403)
 ![Vietnam](https://img.shields.io/badge/Vietnam-0d1117?style=for-the-badge&logo=google-maps&logoColor=87ceeb)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=87ceeb)
 ![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=.net&logoColor=87ceeb)
@@ -13,7 +13,7 @@
 
 ## About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son1BeYew&layout=compact&hide_border=true&bg_color=0d1117&title_color=87ceeb&text_color=ffffff" width="310" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSon0403&layout=compact&hide_border=true&bg_color=0d1117&title_color=87ceeb&text_color=ffffff" width="310" />
 
 - 4th-year Computer Science student  
 - Fullstack Developer (**Backend-focused**)  
@@ -135,22 +135,23 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/NguyenSon0403/NguyenSon0403/output/snake.svg" />
   </picture>
 </p>
+
 ---
 
 ## GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Son1BeYew&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87ceeb&text_color=ffffff&icon_color=87ceeb&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=NguyenSon0403&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87ceeb&text_color=ffffff&icon_color=87ceeb&rank_icon=github" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Son1BeYew&hide_border=true&background=0d1117&ring=87ceeb&fire=87ceeb&currStreakLabel=87ceeb&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=7a7a7a" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenSon0403&hide_border=true&background=0d1117&ring=87ceeb&fire=87ceeb&currStreakLabel=87ceeb&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=7a7a7a" height="170" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Son1BeYew&style=for-the-badge&color=87ceeb&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenSon0403&style=for-the-badge&color=87ceeb&label=PROFILE+VIEWS" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ceeb,50:121826,100:0d1117&height=110&section=footer" width="100%" />
