@@ -30,9 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<img src="https://svgl.app/library/tools.svg" width="24" height="24" alt="Tools">
+## 🛠️ Tech Stack <img src="https://svgl.app/library/tools.svg" width="20" height="20" alt="Tools" style="vertical-align: middle; margin-left: 8px;">
 
 <div align="center">
 <table>
