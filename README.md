@@ -40,7 +40,7 @@
   <br><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="100">
-  <img src="https://svgl.app/library/typescript.svg" width="48" height="48" alt="TypeScript">
+  <img src="assets/typescript.svg" width="48" height="48" alt="TypeScript">
   <br><sub><b>TypeScript</b></sub>
 </td>
 <td align="center" width="100">
