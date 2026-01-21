@@ -159,14 +159,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🌆 GitHub Skyline
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/github-snake-dark.svg">
-  </picture>
+  <img src="https://skyline.github.com/Son1BeYew/2025.png" width="95%" alt="GitHub Skyline">
 </div>
 
 ---
