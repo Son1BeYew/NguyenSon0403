@@ -18,13 +18,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son1BeYew&layout=compact&theme=transparent&hide_border=true&title_color=87ceeb&text_color=ffffff&bg_color=0d1117" width="320">
 
-- 🎓 **4th Year** Computer Science Student
-- 💼 **Fullstack Developer** with Backend focus
-- 🌏 Based in **Vietnam**
-- 🚀 Currently building cool stuff with **Node.js** & **.NET**
-- 📚 Learning **System Design** & **Cloud Architecture**
-- 🤖 Using **Claude** & **Codex** for AI-assisted development
-- ⚡ Fun fact: Code runs better when it's 2 AM
+- **4th Year** Computer Science Student
+- **Fullstack Developer** with Backend focus
+- Based in **Vietnam**
+- Currently building cool stuff with **Node.js** & **.NET**
+- Learning **System Design** & **Cloud Architecture**
+- Using **Claude** & **Codex** for AI-assisted development
+- Fun fact: Code runs better when it's 2 AM
 
 <br clear="right">
 
