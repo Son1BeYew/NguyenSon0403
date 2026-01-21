@@ -73,8 +73,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Son1BeYew&show_icons=true&theme=transparent&hide_border=true&title_color=87ceeb&text_color=ffffff&icon_color=87ceeb&bg_color=0d1117" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Son1BeYew&theme=transparent&hide_border=true&ring=87ceeb&fire=87ceeb&currStreakLabel=87ceeb&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&background=0d1117" height="180" alt="Streak Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Son1BeYew&theme=2077" width="95%" alt="Profile Details">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Son1BeYew&theme=2077" height="180" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Son1BeYew&theme=2077" height="180" alt="Most Commit Language">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Son1BeYew&theme=2077" height="180" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Son1BeYew&theme=2077&utcOffset=7" height="180" alt="Productive Time">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Son1BeYew&theme=transparent&hide_border=true&border_radius=10&ring=87ceeb&fire=87ceeb&currStreakLabel=87ceeb&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&background=0d1117&stroke=87ceeb" height="180" alt="Streak Stats">
 </div>
 
 ---
@@ -82,7 +97,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Son1BeYew&theme=react-dark&hide_border=true&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&area_color=87ceeb" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Son1BeYew&theme=react-dark&hide_border=true&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&area_color=87ceeb&radius=16" width="95%" alt="Activity Graph">
 </div>
 
 ---
