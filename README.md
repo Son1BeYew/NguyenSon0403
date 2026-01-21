@@ -18,13 +18,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son1BeYew&layout=compact&theme=transparent&hide_border=true&title_color=87ceeb&text_color=ffffff&bg_color=0d1117" width="320">
 
-- 🎓 **4th Year** Computer Science Student
-- 💼 **Fullstack Developer** with Backend focus
-- 🌏 Based in **Vietnam**
-- 🔭 Currently building cool stuff with **Node.js** & **.NET**
-- 🌱 Learning **System Design** & **Cloud Architecture**
-- 🤖 Using **Claude** & **Codex** for AI-assisted development
-- ⚡ Fun fact: Code runs better when it's 2 AM
+- <img src="https://svgl.app/library/graduation-cap.svg" width="20" height="20" alt="Student"> **4th Year** Computer Science Student
+- <img src="https://svgl.app/library/briefcase.svg" width="20" height="20" alt="Developer"> **Fullstack Developer** with Backend focus
+- <img src="https://svgl.app/library/globe.svg" width="20" height="20" alt="Location"> Based in **Vietnam**
+- <img src="https://svgl.app/library/rocket.svg" width="20" height="20" alt="Building"> Currently building cool stuff with **Node.js** & **.NET**
+- <img src="https://svgl.app/library/seedling.svg" width="20" height="20" alt="Learning"> Learning **System Design** & **Cloud Architecture**
+- <img src="https://svgl.app/library/cpu.svg" width="20" height="20" alt="AI"> Using **Claude** & **Codex** for AI-assisted development
+- <img src="https://svgl.app/library/zap.svg" width="20" height="20" alt="Fun"> Fun fact: Code runs better when it's 2 AM
 
 <br clear="right">
 
