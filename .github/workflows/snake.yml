@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # mỗi ngày chạy 1 lần
-  workflow_dispatch:      # cho phép chạy tay
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -18,7 +18,7 @@ jobs:
       - name: Generate snake files
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Son1BeYew
+          github_user_name: NguyenSon0403
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
