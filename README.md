@@ -16,7 +16,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son1BeYew&layout=compact&hide_border=true&bg_color=0d1117&title_color=87ceeb&text_color=ffffff" width="310" />
 
 - 4th-year Computer Science student  
-- Fullstack Developer (Backend-focused)  
+- Fullstack Developer (**Backend-focused**)  
 - Building with **Node.js** & **.NET**  
 - Learning **System Design** & **Cloud Architecture**  
 - AI-assisted dev: **Claude** & **Codex**  
@@ -124,7 +124,17 @@
 </table>
 </div>
 
-> (Note: Devicon không có “Claude” official icon ổn định → để ở badge hoặc text sẽ đẹp hơn.)
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -139,12 +149,6 @@
 </div>
 
 ---
-
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Son1BeYew&theme=react-dark&hide_border=true&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true" width="95%" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Son1BeYew&style=for-the-badge&color=87ceeb&label=PROFILE+VIEWS" />
