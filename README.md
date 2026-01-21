@@ -130,12 +130,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Son1BeYew/Son1BeYew/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenSon0403/NguyenSon0403/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenSon0403/NguyenSon0403/output/snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/NguyenSon0403/NguyenSon0403/output/snake.svg" />
   </picture>
 </p>
-
 ---
 
 ## GitHub Snapshot
