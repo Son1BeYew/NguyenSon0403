@@ -159,10 +159,10 @@
 
 ---
 
-## 🌆 GitHub Skyline
+## 📊 Coding Activity
 
 <div align="center">
-  <img src="https://skyline.github.com/Son1BeYew/2025.png" width="95%" alt="GitHub Skyline">
+  <img src="https://github-readme-stats.vercel.app/api?username=Son1BeYew&show_icons=true&theme=transparent&hide_border=true&title_color=87ceeb&text_color=ffffff&icon_color=87ceeb&bg_color=0d1117&rank_icon=github" width="95%" alt="GitHub Stats">
 </div>
 
 ---
