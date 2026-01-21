@@ -1,174 +1,153 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:87ceeb&height=200&section=header&text=Nguyen%20Dao%20Son&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Backend%20Focused&descAlignY=55&descSize=18&descColor=87ceeb" width="100%" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:121826,100:87ceeb&height=190&section=header&text=Nguyen%20Dao%20Son&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20Backend%20Focused&descAlignY=58&descSize=18&descColor=87ceeb" width="100%" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%F0%9F%8E%93+4th+Year+CS+Student;%F0%9F%92%BB+Fullstack+Developer;%E2%9A%A1+Backend+Enthusiast;%F0%9F%9A%80+Always+Learning+New+Things" alt="Typing SVG">
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/Son1BeYew">
-    <img src="https://img.shields.io/badge/GitHub-Son1BeYew-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-Son1BeYew-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Son1BeYew)
+![Vietnam](https://img.shields.io/badge/Vietnam-0d1117?style=for-the-badge&logo=google-maps&logoColor=87ceeb)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=87ceeb)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=.net&logoColor=87ceeb)
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son1BeYew&layout=compact&theme=transparent&hide_border=true&title_color=87ceeb&text_color=ffffff&bg_color=0d1117" width="320">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son1BeYew&layout=compact&hide_border=true&bg_color=0d1117&title_color=87ceeb&text_color=ffffff" width="310" />
 
-- **4th Year** Computer Science Student
-- **Fullstack Developer** with Backend focus
-- Based in **Vietnam**
-- Currently building cool stuff with **Node.js** & **.NET**
-- Learning **System Design** & **Cloud Architecture**
-- Using **Claude** & **Codex** for AI-assisted development
-- Fun fact: Code runs better when it's 2 AM
+- 4th-year Computer Science student  
+- Fullstack Developer (Backend-focused)  
+- Building with **Node.js** & **.NET**  
+- Learning **System Design** & **Cloud Architecture**  
+- AI-assisted dev: **Claude** & **Codex**  
+- Fun fact: peak performance at **2 AM**  
 
-<br clear="right">
+<br clear="right" />
 
 ---
 
-## 🛠️ Tech Stack <img src="https://svgl.app/library/tools.svg" width="20" height="20" alt="Tools" style="vertical-align: middle; margin-left: 8px;">
+## Tech Stack
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/javascript.svg" width="48" height="48" alt="JavaScript">
-  <br><sub><b>JavaScript</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" />
+  <br/><sub><b>JavaScript</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/typescript.svg" width="48" height="48" alt="TypeScript">
-  <br><sub><b>TypeScript</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="46" />
+  <br/><sub><b>TypeScript</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/cpp.svg" width="48" height="48" alt="C++">
-  <br><sub><b>C++</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="46" />
+  <br/><sub><b>C++</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/csharp.svg" width="48" height="48" alt="C#">
-  <br><sub><b>C#</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="46" />
+  <br/><sub><b>C#</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/nodejs.svg" width="48" height="48" alt="Node.js">
-  <br><sub><b>Node.js</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/react-dark.svg" width="48" height="48" alt="React">
-  <br><sub><b>React</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="48" height="48" alt="Next.js">
-  <br><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/express.svg" width="48" height="48" alt="Express">
-  <br><sub><b>Express</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/dotnet.svg" width="48" height="48" alt=".NET">
-  <br><sub><b>.NET</b></sub>
-</td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/tailwindcss.svg" width="48" height="48" alt="Tailwind">
-  <br><sub><b>Tailwind</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46" />
+  <br/><sub><b>Node.js</b></sub>
 </td>
 </tr>
+
 <tr>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/mongodb.svg" width="48" height="48" alt="MongoDB">
-  <br><sub><b>MongoDB</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" />
+  <br/><sub><b>React</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/postgresql.svg" width="48" height="48" alt="PostgreSQL">
-  <br><sub><b>PostgreSQL</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="46" />
+  <br/><sub><b>Next.js</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/microsoft-sql-server.svg" width="48" height="48" alt="SQL Server">
-  <br><sub><b>SQL Server</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46" />
+  <br/><sub><b>Express</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/docker.svg" width="48" height="48" alt="Docker">
-  <br><sub><b>Docker</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="46" />
+  <br/><sub><b>.NET</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/git.svg" width="48" height="48" alt="Git">
-  <br><sub><b>Git</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="46" />
+  <br/><sub><b>Tailwind</b></sub>
 </td>
 </tr>
+
 <tr>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/github-dark.svg" width="48" height="48" alt="GitHub">
-  <br><sub><b>GitHub</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="46" />
+  <br/><sub><b>MongoDB</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/postman.svg" width="48" height="48" alt="Postman">
-  <br><sub><b>Postman</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" />
+  <br/><sub><b>PostgreSQL</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/vscode.svg" width="48" height="48" alt="VS Code">
-  <br><sub><b>VS Code</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="46" />
+  <br/><sub><b>SQL Server</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/claude.svg" width="48" height="48" alt="Claude">
-  <br><sub><b>Claude</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="46" />
+  <br/><sub><b>Docker</b></sub>
 </td>
-<td align="center" width="100">
-  <img src="https://svgl.app/library/openai-dark.svg" width="48" height="48" alt="OpenAI">
-  <br><sub><b>OpenAI</b></sub>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" />
+  <br/><sub><b>Git</b></sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46" />
+  <br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="46" />
+  <br/><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" />
+  <br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="46" />
+  <br/><sub><b>OpenAI</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="46" />
+  <br/><sub><b>Docs</b></sub>
 </td>
 </tr>
 </table>
 </div>
 
+> (Note: Devicon không có “Claude” official icon ổn định → để ở badge hoặc text sẽ đẹp hơn.)
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Son1BeYew&theme=2077" width="95%" alt="Profile Details">
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Son1BeYew&theme=2077" height="180" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Son1BeYew&theme=2077" height="180" alt="Most Commit Language">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Son1BeYew&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87ceeb&text_color=ffffff&icon_color=87ceeb&rank_icon=github" height="170" />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Son1BeYew&theme=2077" height="180" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Son1BeYew&theme=2077&utcOffset=7" height="180" alt="Productive Time">
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Son1BeYew&hide_border=true&background=0d1117&ring=87ceeb&fire=87ceeb&currStreakLabel=87ceeb&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=7a7a7a" height="170" />
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Son1BeYew&theme=transparent&hide_border=true&border_radius=10&ring=87ceeb&fire=87ceeb&currStreakLabel=87ceeb&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&background=0d1117&stroke=87ceeb" height="180" alt="Streak Stats">
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Son1BeYew&theme=react-dark&hide_border=true&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true&area_color=87ceeb&radius=16" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Son1BeYew&theme=react-dark&hide_border=true&bg_color=0d1117&color=87ceeb&line=87ceeb&point=ffffff&area=true" width="95%" />
 </div>
-
----
-
-## 📊 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Son1BeYew&show_icons=true&theme=transparent&hide_border=true&title_color=87ceeb&text_color=ffffff&icon_color=87ceeb&bg_color=0d1117&rank_icon=github" width="95%" alt="GitHub Stats">
+  <img src="https://komarev.com/ghpvc/?username=Son1BeYew&style=for-the-badge&color=87ceeb&label=PROFILE+VIEWS" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Son1BeYew&style=for-the-badge&color=87ceeb&label=PROFILE+VIEWS" alt="Profile Views">
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ceeb,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ceeb,50:121826,100:0d1117&height=110&section=footer" width="100%" />
